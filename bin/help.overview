@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# This asdf shell script provides a brief overview of Lite-XL
+
+echo "A lightweight, simple, fast, feature-filled, and extremely extensible"
+echo "text editor written in C, and Lua, adapted from lite."
+echo ""
